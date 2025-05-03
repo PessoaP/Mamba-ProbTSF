@@ -139,6 +139,8 @@ if __name__ == '__main__':
 
             exp = Exp(args)  # set experiments
 
+            exp.save_training_set(setting)
+            break
             if args.training_type == 'Means_first':
                 print('>>>>>>>start deterministic training : {}>>>>>>>>>>>>'.format(setting))
                 exp.train(setting,prob=False)
