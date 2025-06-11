@@ -41,6 +41,18 @@ Use the following scripts to run experiments on different datasets:
 
 4. **Generate the figures** using the iPython notebook `make_figures.ipynb`
 
+## **Citation**
+```
+@misc{pessoa2025mamba,
+    title={Mamba time series forecasting with uncertainty quantification},
+    author={Pedro Pessoa and Paul Campitelli and Douglas P. Shepherd and S. Banu Ozkan and Steve Pressé},
+    year={2025},
+    eprint={2503.10873},
+    archivePrefix={arXiv},
+    primaryClass={stat.ML}
+}
+```
 
 ## **Acknowledgments**
 Initial versions of this code were build on top of S-Mamba (https://github.com/wzhwzhwzh0921/S-D-Mamba accompanied with paper https://www.sciencedirect.com/science/article/pii/S0925231224019490). With the express authorization of the authors, we have adapted and modified the original implementation.
+
