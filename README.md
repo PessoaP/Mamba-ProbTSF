@@ -5,7 +5,7 @@
 This repository implements a dual-network framework based on the Mamba architecture for probabilistic time series forecasting. One network produces point forecasts, while the other estimates point-wise uncertainty for the forecasted region.  
 
 We discuss the motivation and impact of this approach in our manuscript:  
-"Mamba Time Series Forecasting with Uncertainty Quantification" Available as a preprint on [arXiv](https://arxiv.org/abs/2503.10873)
+"Mamba Time Series Forecasting with Uncertainty Quantification", published on IOP's [Machine learning: science and technology](https://doi.org/10.1088/2632-2153/adec3b) and as preprint on [arXiv](https://arxiv.org/abs/2503.10873)
 
 ---
 <div style="background-color:white; display:inline-block; padding:10px;">
@@ -47,9 +47,10 @@ Use the following scripts to run experiments on different datasets:
     title={Mamba time series forecasting with uncertainty quantification},
     author={Pedro Pessoa and Paul Campitelli and Douglas P. Shepherd and S. Banu Ozkan and Steve Pressé},
     year={2025},
-    eprint={2503.10873},
-    archivePrefix={arXiv},
-    primaryClass={stat.ML}
+    publisher = {IOP Publishing},
+    journal = {Machine Learning: Science and Technology},
+    doi={10.1088/2632-2153/adec3b},
+    volume={in press},
 }
 ```
 
