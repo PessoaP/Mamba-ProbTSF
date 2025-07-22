@@ -43,17 +43,16 @@ Use the following scripts to run experiments on different datasets:
 
 ## **Citation**
 ```
-@misc{pessoa2025mamba,
-    title     = {Mamba time series forecasting with uncertainty quantification},
-    author    = {Pedro Pessoa and Paul Campitelli and Douglas P. Shepherd and S. Banu Ozkan and Steve Pressé},
-    year      = {2025},
-    publisher = {IOP Publishing},
-    journal   = {Machine Learning: Science and Technology},
-    doi       = {10.1088/2632-2153/adec3b},
-    volume    = {6},
-    pages     = {035012},
-    doi       = {10.1088/2632-2153/adec3b}
+@article{pessoa2025mamba,
+  title   = {Mamba time series forecasting with uncertainty quantification},
+  author  = {Pedro Pessoa and Paul Campitelli and Douglas P. Shepherd and S. Banu Ozkan and Steve Pressé},
+  journal = {Machine Learning: Science and Technology},
+  volume  = {6},
+  pages   = {035012},
+  year    = {2025},
+  doi     = {10.1088/2632-2153/adec3b}
 }
+
 ```
 
 ## **Acknowledgments**
